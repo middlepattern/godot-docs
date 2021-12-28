@@ -119,7 +119,7 @@ Here is the same code as before using this approach:
  .. code-tab:: gdscript GDScript
 
 
-    func _ready()
+    func _ready():
         $Player.play()
 
 
